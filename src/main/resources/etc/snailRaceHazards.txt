@@ -1,0 +1,4 @@
+Un escargot aléatoire a un point de côté, ce qui réduit sa vitesse de 4 cases pour le round.
+Un spectateur jette une tête de laitue vers un escargot aléatoire. Ce dernier s'arrête pour manger la laitue et n'avance pas d'un centimètre pour le round.
+Un escargot aléatoire, galvanisé par la foule en délire, parcourt 2 cases de plus à ce round.
+La selle d'un escargot aléatoire se détache et menace de tomber. Son cavalier doit réussir un jet de sauvegarde de Dextérité DD15 pour ne pas se laisser désarçonner. En cas d'échec, le jockey tombe de l'escargot, qui continue seul la course.

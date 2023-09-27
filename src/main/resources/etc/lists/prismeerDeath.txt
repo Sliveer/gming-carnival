@@ -1,0 +1,5 @@
+1.   Le cadavre de la créature se transforme en pierre
+2.   Le cadavre de la créature se décompose à un rythme accéléré. Il n'en reste plus que des os après 1 minute
+3-6. Aucun effet supplémentaire
+7.   Le cadavre de la créature est conservé pendant 10 jours, comme sous l'effet du sort doux repos. Ainsi conservé, le corps est enfermé dans une pellicule opalescente rappelant la surface d'une bulle. Tout dégât supplémentaire infligé au cadavre dissipe le sort
+8.   La créature est ramenée à la vie avec 1 point de vie, comme sous l'effet du sort retour à la vie
